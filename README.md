@@ -114,7 +114,8 @@ This page equips stakeholders with the tools to identify high-performing segment
 
 This page empowers decision-makers with the data needed to enhance supply chain performance, minimize waste, and maximize cost-effectiveness.
 
-![image](https://github.com/user-attachments/assets/f2c19fef-a94f-4659-a459-134d6d4eca99)
+![image](https://github.com/user-attachments/assets/a7289dc5-9748-410c-83a0-7edffda8330d)
+
 
 
 #### Executive Page Overview: The Executive Page offers a comprehensive performance overview tailored for top management, enabling quick and informed decision-making. Key highlights include:
