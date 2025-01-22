@@ -1,7 +1,5 @@
 # Business-Insight-360
 
-[Dashboard:](https://app.powerbi.com/view?r=eyJrIjoiY2ZhYjJjYmEtNzZmNi00YWYwLTg2MzQtZWYyM2Y1ZmRmYzA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
-
 # AtliQ Hardware - Business Insights 360
 
 ## Table of Contents
@@ -75,9 +73,13 @@ The dashboard comprises six pages
 
 #### Finance Page Overview : This page is designed to enhance financial planning, optimize budgeting processes, and implement effective cost control measures. Key insights provided include:
 
+- Net Sales Performance Over Time: Comparission between Current and Last Year Net Sales.
 - Profit and Loss Statements: A comprehensive view of financial performance.
 - Top and Bottom Products by Net Sales: Identify the most and least profitable products.
 - Top and Bottom Customers by Net Sales: Highlight key customer segments driving revenue and those requiring strategic attention.
+
+### Insights:
+- 
 
 By focusing on these metrics, the Finance Page ensures stakeholders can make informed financial decisions to drive business growth.
 
