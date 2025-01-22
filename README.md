@@ -81,7 +81,8 @@ The dashboard comprises six pages
 
 By focusing on these metrics, the Finance Page ensures stakeholders can make informed financial decisions to drive business growth.
 
-![image](https://github.com/user-attachments/assets/4be0e46a-cc2f-4ebd-a762-c68877e71615)
+![image](https://github.com/user-attachments/assets/f28699fd-82e2-4372-b6f9-a732fc2d02fb)
+
 
 #### Sales Page Overview: The Sales Page is designed to drive revenue growth and expand market share by providing actionable insights. Key features include:
 
@@ -91,7 +92,8 @@ By focusing on these metrics, the Finance Page ensures stakeholders can make inf
 
 This page empowers decision-makers with the insights needed to refine strategies, enhance customer engagement, and maximize profitability.
 
-![image](https://github.com/user-attachments/assets/7c06c682-88b0-49fa-9ddb-a8085593577b)
+![image](https://github.com/user-attachments/assets/a81da48e-b850-4f38-aed3-7bee5b56b03a)
+
 
 #### Marketing Page Overview: The Marketing Page focuses on enhancing brand visibility and fostering customer engagement through data-driven insights. Key features include:
 
@@ -101,7 +103,8 @@ This page empowers decision-makers with the insights needed to refine strategies
 
 This page equips stakeholders with the tools to identify high-performing segments, optimize campaigns, and boost overall marketing effectiveness.
 
-![image](https://github.com/user-attachments/assets/6cc8b87a-300d-48be-9cd4-7ce63ab60c92)
+![image](https://github.com/user-attachments/assets/91c79509-a76d-47eb-a155-1cd6ab573722)
+
 
 #### Supply Chain Page Overview: The Supply Chain Page is designed to optimize inventory management and strengthen supplier relationships to achieve significant cost savings. Key insights include:
 
@@ -111,7 +114,8 @@ This page equips stakeholders with the tools to identify high-performing segment
 
 This page empowers decision-makers with the data needed to enhance supply chain performance, minimize waste, and maximize cost-effectiveness.
 
-![image](https://github.com/user-attachments/assets/fe3e3285-859e-4059-8879-1086326bdcd6)
+![image](https://github.com/user-attachments/assets/f2c19fef-a94f-4659-a459-134d6d4eca99)
+
 
 #### Executive Page Overview: The Executive Page offers a comprehensive performance overview tailored for top management, enabling quick and informed decision-making. Key highlights include:
 
@@ -124,7 +128,8 @@ This page empowers decision-makers with the data needed to enhance supply chain 
 
 This page consolidates critical metrics into a high-level dashboard, ensuring executives stay informed and aligned with organizational goals.
 
-![image](https://github.com/user-attachments/assets/d696973c-92d6-4bea-8fd2-bad04916b0cc)
+![image](https://github.com/user-attachments/assets/e5e32d0c-f5e3-4a5b-8caf-1c21467e8f47)
+
 
 
 ## Power BI Techniques Learned
