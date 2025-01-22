@@ -23,7 +23,7 @@ To gain an edge and embrace data-driven decision-making, AltiQ Hardware initiate
 
 I contributed to this transformative project by applying skills gained from the Codebasics Power BI Course, ensuring a structured approach to developing impactful dashboards and reports.
 
-Link for the Business Insights 360 Dashboard - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDQyNTg3ZTAtMGQ2MC00NzZlLTlhZDAtNGQ4YWFmNjVlMmYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Link for the Business Insights 360 Dashboard - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2ZhYjJjYmEtNzZmNi00YWYwLTg2MzQtZWYyM2Y1ZmRmYzA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Datasets
