@@ -78,8 +78,6 @@ The dashboard comprises six pages
 - Top and Bottom Products by Net Sales: Identify the most and least profitable products.
 - Top and Bottom Customers by Net Sales: Highlight key customer segments driving revenue and those requiring strategic attention.
 
-### Insights:
-- 
 
 By focusing on these metrics, the Finance Page ensures stakeholders can make informed financial decisions to drive business growth.
 
